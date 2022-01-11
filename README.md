@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @JxSol
+- 👀 I’m interested in coding.
+- 🌱 I’m currently learning algorythms.
+- 🐍 I use Python.
+- 💞️ I’m looking to collaborate on learning together.
+- 🌍 I speak 🇬🇧 english, 🇷🇺 russian.
+- 📫 How to reach me: 🎮 Discord JxSol#4180
