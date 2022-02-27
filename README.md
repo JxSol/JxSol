@@ -2,6 +2,6 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning algorythms.
 - 🐍 I use Python.
-- 💞️ I’m looking to collaborate on learning together.
+- 💞️ I’m looking for cooperation for co-education.
 - 🌍 I speak 🇬🇧 english, 🇷🇺 russian.
 - 📫 How to reach me: 🎮 Discord JxSol#4180
