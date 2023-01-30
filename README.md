@@ -1,8 +1,6 @@
+![Views](https://komarev.com/ghpvc/?username=jxsol&label=Views)\
 ![Title](https://github.com/JxSol/JxSol/blob/main/images/title.png "title")
 
-<div align="right">
-    <img src="https://komarev.com/ghpvc/?username=jxsol&label=Views" alt="Views" />
-</div>
 
 ## Languages and frameworks
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
