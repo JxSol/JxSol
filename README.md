@@ -17,18 +17,26 @@
 
 
 ## Technologies
-[![Windows](https://img.shields.io/badge/Windows%2011-0078D4.svg?style=flat&logo=Windows-11&logoColor=white)](https://www.microsoft.com)
-
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm)
-[![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com)
-
-[![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white)](https://git-scm.com)
-[![Miro](https://img.shields.io/badge/Miro-050038.svg?style=flat&logo=Miro&logoColor=black&color=FFD100&textColor=black)](https://miro.com)
-
+[![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=flat&logo=Redis&logoColor=white)](https://redis.io)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=SQLite&logoColor=white)](https://sqlite.org)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=PostgreSQL&logoColor=white)](https://www.postgresql.org)
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white)](https://www.docker.com)
+[![NGINX](https://img.shields.io/badge/NGINX-009639.svg?style=flat&logo=NGINX&logoColor=white)](https://nginx.org)
+
+
+[![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white)](https://git-scm.com)
+[![Miro](https://img.shields.io/badge/Miro-050038.svg?style=flat&logo=Miro&logoColor=black&color=FFD100&textColor=black)](https://miro.com)
+
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm)
+[![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com)
+
+
+[![Windows](https://img.shields.io/badge/Windows%2011-0078D4.svg?style=flat&logo=Windows-11&logoColor=white)](https://www.microsoft.com)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=Ubuntu&logoColor=white)](https://ubuntu.com)
+
+
+
 
 
 ## Improve skills here
