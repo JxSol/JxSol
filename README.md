@@ -28,7 +28,8 @@
 
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white)](https://git-scm.com)
 [![Miro](https://img.shields.io/badge/Miro-050038.svg?style=flat&logo=Miro&logoColor=black&color=FFD100&textColor=black)](https://miro.com)
-[![Miro](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=Postman&logoColor=white)](https://www.postman.com)
+[![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=flat&logo=Trello&logoColor=white)](https://trello.com)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=Postman&logoColor=white)](https://www.postman.com)
 
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm)
 [![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com)
