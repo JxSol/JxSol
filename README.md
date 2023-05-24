@@ -3,9 +3,10 @@
 
 
 ## Languages and frameworks
-[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white)](https://www.python.org)
 [![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=Django&logoColor=white)](https://www.djangoproject.com)
 [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://www.django-rest-framework.org)
+[![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=Flask&logoColor=white)](https://flask.palletsprojects.com)
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white)](https://html.spec.whatwg.org)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white)](https://getbootstrap.com)
@@ -27,6 +28,7 @@
 
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white)](https://git-scm.com)
 [![Miro](https://img.shields.io/badge/Miro-050038.svg?style=flat&logo=Miro&logoColor=black&color=FFD100&textColor=black)](https://miro.com)
+[![Miro](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=Postman&logoColor=white)](https://www.postman.com)
 
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm)
 [![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com)
