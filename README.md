@@ -6,6 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white)](https://www.python.org)
 [![Django](https://img.shields.io/badge/Django-092E20.svg?style=flat&logo=Django&logoColor=white)](https://www.djangoproject.com)
 [![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray)](https://www.django-rest-framework.org)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com)
 [![Flask](https://img.shields.io/badge/Flask-000000.svg?style=flat&logo=Flask&logoColor=white)](https://flask.palletsprojects.com)
 
 
@@ -28,6 +29,8 @@
 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=Postman&logoColor=white)](https://www.postman.com)
 [![Celery](https://img.shields.io/badge/Celery-37814A.svg?style=flat&logo=Celery&logoColor=white)](https://docs.celeryq.dev)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00.svg?style=flat&logo=SQLAlchemy&logoColor=white)](https://www.sqlalchemy.org/)
+
 
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white)](https://git-scm.com)
 [![Miro](https://img.shields.io/badge/Miro-050038.svg?style=flat&logo=Miro&logoColor=black&color=FFD100&textColor=black)](https://miro.com)
