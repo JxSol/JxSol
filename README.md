@@ -58,6 +58,6 @@
 
 
 ## Connect with me
-[![Gmail](https://img.shields.io/badge/jxsol.js@gmail.com-EA4335.svg?style=flat&logo=Gmail&logoColor=white)](mailto:antilevski.alex@gmail.com)
+[![Gmail](https://img.shields.io/badge/jxsol.js@gmail.com-EA4335.svg?style=flat&logo=Gmail&logoColor=white)](mailto:jxsol.js@gmail.com)
 [![Telegram](https://img.shields.io/badge/@jxsol-26A5E4.svg?style=flat&logo=Telegram&logoColor=white)](https://t.me/JxSol)
 [![Discord](https://img.shields.io/badge/JxSol:4180-5865F2.svg?style=flat&logo=Discord&logoColor=white)](https://discordapp.com/users/492737164677873694)
