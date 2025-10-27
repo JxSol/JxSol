@@ -32,6 +32,7 @@
 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=Postman&logoColor=white)](https://www.postman.com)
 [![Celery](https://img.shields.io/badge/Celery-37814A.svg?style=flat&logo=Celery&logoColor=white)](https://docs.celeryq.dev)
+[![Metabase](https://img.shields.io/badge/Metabase-509EE3.svg?style=flat&logo=Metabase&logoColor=white)](https://www.metabase.com)
 
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white)](https://git-scm.com)
 [![Miro](https://img.shields.io/badge/Miro-050038.svg?style=flat&logo=Miro&logoColor=black&color=FFD100&textColor=black)](https://miro.com)
@@ -39,6 +40,8 @@
 [![Notion](https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=white)](https://www.notion.so)
 [![Slack](https://img.shields.io/badge/Slack-4A154B.svg?style=flat&logo=Slack&logoColor=white)](https://slack.com)
 [![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE.svg?style=flat&logo=ClickUp&logoColor=white)](https://clickup.com)
+[![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=flat&logo=Jira&logoColor=white)](https://www.atlassian.com/software/jira)
+
 
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=flat&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm)
 [![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white)](https://code.visualstudio.com)
