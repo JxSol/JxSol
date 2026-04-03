@@ -13,11 +13,14 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white)](https://html.spec.whatwg.org)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=flat&logo=Bootstrap&logoColor=white)](https://getbootstrap.com)
 
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=CSS3&logoColor=white)](https://drafts.csswg.org)
+[![CSS](https://img.shields.io/badge/CSS-663399.svg?style=flat&logo=CSS&logoColor=white)](https://www.w3.org/Style/CSS)
 [![SASS](https://img.shields.io/badge/Sass-CC6699.svg?style=flat&logo=Sass&logoColor=white)](https://sass-lang.com)
 [![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=flat&logo=Tailwind-CSS&logoColor=white)](https://tailwindcss.com)
+[![DaisyUI](https://img.shields.io/badge/daisyUI-FFC63A.svg?style=flat&logo=daisyUI&logoColor=black)](https://daisyui.com)
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black)](https://www.javascript.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org)
+
 
 
 ## Technologies
