@@ -20,7 +20,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=JavaScript&logoColor=black)](https://www.javascript.com)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org)
-
+[![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=black)](https://react.dev)
 
 
 ## Technologies
@@ -32,6 +32,7 @@
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white)](https://www.docker.com)
 [![NGINX](https://img.shields.io/badge/NGINX-009639.svg?style=flat&logo=NGINX&logoColor=white)](https://nginx.org)
+[![Vite](https://img.shields.io/badge/Vite-9135FF.svg?style=flat&logo=Vite&logoColor=white)](https://vite.dev)
 
 [![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=flat&logo=Postman&logoColor=white)](https://www.postman.com)
 [![Celery](https://img.shields.io/badge/Celery-37814A.svg?style=flat&logo=Celery&logoColor=white)](https://docs.celeryq.dev)
